@@ -4,7 +4,11 @@ let inputText = document.getElementById('inputText');
 let btnClearAll = document.getElementById('btnClearAll');
 
 
-ToDobtnAdd.addEventListener('click', function(){
+ToDobtnAdd.addEventListener('click', () => {
+    let inputText2 = inputText.value;
+    if (inputText2 === "") {
+    alert('Please write something to do!');
+}
     let list = document.createElement('li');
     myList.appendChild(list);
     list.innerHTML = inputText.value;
