@@ -1,5 +1,5 @@
 # To-Do-List-App
-Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğum JavaScript ödevi için açıldı.<br/>
+Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğum To-Do-List-App JavaScript ödevi için açıldı.<br/>
 ## Özellikler
 Not defteri gibi kullanabileceğimiz bir To Do uygulaması geliştirdim.<br/><br/>
 Yapmamız gereken şeyleri liste halinde not edebiliyoruz.<br/><br/>
